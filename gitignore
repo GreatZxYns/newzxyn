@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+sudo_users.json
+.venv/
+venv/

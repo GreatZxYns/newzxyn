@@ -1,0 +1,2 @@
+# newzxyn
+zxynn bot fyt
